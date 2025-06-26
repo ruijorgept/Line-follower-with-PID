@@ -5,7 +5,7 @@ We designed and developed a small autonomous car that follows a black line on a 
 This project was developed as part of the curricular unit **"Projeto Integrador em Engenharia Eletrónica Industrial e Computadores 2"** during the 3rd year of the Bachelor's degree in Electronic Industrial and Computer Engineering at the **University of Minho**.
 
 It was carried out in collaboration with the university's electronics laboratories.
-
+📄 [Read the full project report (PDF)](Relatório_Projeto_Final.pdf)
 ##  Getting Started
 
 ###  Components Used
