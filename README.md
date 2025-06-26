@@ -17,13 +17,16 @@ It was carried out in collaboration with the university's electronics laboratori
 -  **Motors**: 2x 6V DC motors  
 -  **Power Supply**: 9V battery  
 -  **Structure**: 2 wheels, chassis (custom or kit)
+## Required Software
+
+- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+
 ##  System Overview
 
 ![carro](https://github.com/user-attachments/assets/64c01c3f-5465-410b-bb84-4c0de3989864)
 
-## Required Software
 
-- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 ## Authors
 
 - Rui Sampaio – Universidade do Minho, Engenharia Eletrónica Industrial e Computadores
