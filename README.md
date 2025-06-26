@@ -20,7 +20,6 @@ It was carried out in collaboration with the university's electronics laboratori
 ##  System Overview
 
 ![carro](https://github.com/user-attachments/assets/64c01c3f-5465-410b-bb84-4c0de3989864)
-![carro](https://github.com/user-attachments/assets/64c01c3f-5465-410b-bb84-4c0de3989864)
 
 ## Required Software
 
